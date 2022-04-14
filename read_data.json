@@ -1,0 +1,280 @@
+{
+  "took" : 7,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "skipped" : 0,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 24,
+    "max_score" : 1.0,
+    "hits" : [
+      {
+        "_index" : "pp_index",
+        "_type" : "student",
+        "_id" : "14",
+        "_score" : 1.0,
+        "_source" : {
+          "name" : "Naveen",
+          "usn" : "1rv20mc062",
+          "program" : "MCA"
+        }
+      },
+      {
+        "_index" : "pp_index",
+        "_type" : "student",
+        "_id" : "19",
+        "_score" : 1.0,
+        "_source" : {
+          "name" : "Pawan",
+          "usn" : "1rv20mc067",
+          "program" : "BE"
+        }
+      },
+      {
+        "_index" : "pp_index",
+        "_type" : "student",
+        "_id" : "22",
+        "_score" : 1.0,
+        "_source" : {
+          "name" : "partha",
+          "usn" : "1rv20mc070",
+          "program" : "BE"
+        }
+      },
+      {
+        "_index" : "pp_index",
+        "_type" : "student",
+        "_id" : "24",
+        "_score" : 1.0,
+        "_source" : {
+          "name" : "Captain America",
+          "usn" : "1rv20mc072",
+          "program" : "BE"
+        }
+      },
+      {
+        "_index" : "pp_index",
+        "_type" : "student",
+        "_id" : "5",
+        "_score" : 1.0,
+        "_source" : {
+          "name" : "Nirmal",
+          "usn" : "1rv20mc053",
+          "program" : "MCA"
+        }
+      },
+      {
+        "_index" : "pp_index",
+        "_type" : "student",
+        "_id" : "8",
+        "_score" : 1.0,
+        "_source" : {
+          "name" : "praveen",
+          "usn" : "1rv20mc056",
+          "program" : "MCA"
+        }
+      },
+      {
+        "_index" : "pp_index",
+        "_type" : "student",
+        "_id" : "9",
+        "_score" : 1.0,
+        "_source" : {
+          "name" : "Bharath",
+          "usn" : "1rv20mc057",
+          "program" : "MCA"
+        }
+      },
+      {
+        "_index" : "pp_index",
+        "_type" : "student",
+        "_id" : "10",
+        "_score" : 1.0,
+        "_source" : {
+          "name" : "Kavi sharma",
+          "usn" : "1rv20mc058",
+          "program" : "MCA"
+        }
+      },
+      {
+        "_index" : "pp_index",
+        "_type" : "student",
+        "_id" : "12",
+        "_score" : 1.0,
+        "_source" : {
+          "name" : "qatar",
+          "usn" : "1rv20mc060",
+          "program" : "MCA"
+        }
+      },
+      {
+        "_index" : "pp_index",
+        "_type" : "student",
+        "_id" : "21",
+        "_score" : 1.0,
+        "_source" : {
+          "name" : "Dhanush",
+          "usn" : "1rv20mc069",
+          "program" : "BE"
+        }
+      },
+      {
+        "_index" : "pp_index",
+        "_type" : "student",
+        "_id" : "2",
+        "_score" : 1.0,
+        "_source" : {
+          "name" : "Jeevan",
+          "usn" : "1rv20mc050",
+          "program" : "MCA"
+        }
+      },
+      {
+        "_index" : "pp_index",
+        "_type" : "student",
+        "_id" : "4",
+        "_score" : 1.0,
+        "_source" : {
+          "name" : "Mahadev",
+          "usn" : "1rv20mc052",
+          "program" : "MCA"
+        }
+      },
+      {
+        "_index" : "pp_index",
+        "_type" : "student",
+        "_id" : "6",
+        "_score" : 1.0,
+        "_source" : {
+          "name" : "Shivaputra",
+          "usn" : "1rv20mc054",
+          "program" : "MCA"
+        }
+      },
+      {
+        "_index" : "pp_index",
+        "_type" : "student",
+        "_id" : "15",
+        "_score" : 1.0,
+        "_source" : {
+          "name" : "Prem",
+          "usn" : "1rv20mc063",
+          "program" : "MCA"
+        }
+      },
+      {
+        "_index" : "pp_index",
+        "_type" : "student",
+        "_id" : "20",
+        "_score" : 1.0,
+        "_source" : {
+          "name" : "Raju",
+          "usn" : "1rv20mc068",
+          "program" : "BE"
+        }
+      },
+      {
+        "_index" : "pp_index",
+        "_type" : "student",
+        "_id" : "1",
+        "_score" : 1.0,
+        "_source" : {
+          "name" : "Mithun",
+          "usn" : "1rv20mc049",
+          "program" : "MCA"
+        }
+      },
+      {
+        "_index" : "pp_index",
+        "_type" : "student",
+        "_id" : "7",
+        "_score" : 1.0,
+        "_source" : {
+          "name" : "vishwa",
+          "usn" : "1rv20mc055",
+          "program" : "MCA"
+        }
+      },
+      {
+        "_index" : "pp_index",
+        "_type" : "student",
+        "_id" : "13",
+        "_score" : 1.0,
+        "_source" : {
+          "name" : "Brijesh",
+          "usn" : "1rv20mc061",
+          "program" : "MCA"
+        }
+      },
+      {
+        "_index" : "pp_index",
+        "_type" : "student",
+        "_id" : "16",
+        "_score" : 1.0,
+        "_source" : {
+          "name" : "Adarsh",
+          "usn" : "1rv20mc064",
+          "program" : "MTech"
+        }
+      },
+      {
+        "_index" : "pp_index",
+        "_type" : "student",
+        "_id" : "18",
+        "_score" : 1.0,
+        "_source" : {
+          "name" : "karthik",
+          "usn" : "1rv20mc066",
+          "program" : "MTech"
+        }
+      },
+      {
+        "_index" : "pp_index",
+        "_type" : "student",
+        "_id" : "3",
+        "_score" : 1.0,
+        "_source" : {
+          "name" : "Adithya",
+          "usn" : "1rv20mc051",
+          "program" : "MCA"
+        }
+      },
+      {
+        "_index" : "pp_index",
+        "_type" : "student",
+        "_id" : "11",
+        "_score" : 1.0,
+        "_source" : {
+          "name" : "Krishnamoorthi",
+          "usn" : "1rv20mc059",
+          "program" : "MCA"
+        }
+      },
+      {
+        "_index" : "pp_index",
+        "_type" : "student",
+        "_id" : "17",
+        "_score" : 1.0,
+        "_source" : {
+          "name" : "Sanjay",
+          "usn" : "1rv20mc065",
+          "program" : "MTech"
+        }
+      },
+      {
+        "_index" : "pp_index",
+        "_type" : "student",
+        "_id" : "23",
+        "_score" : 1.0,
+        "_source" : {
+          "name" : "Ironman",
+          "usn" : "1rv20mc071",
+          "program" : "BE"
+        }
+      }
+    ]
+  }
+}

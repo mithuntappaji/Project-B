@@ -1,0 +1,126 @@
+{
+  "took" : 11,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "skipped" : 0,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 15,
+    "max_score" : 1.2039728,
+    "hits" : [
+      {
+        "_index" : "pp_index",
+        "_type" : "student",
+        "_id" : "14",
+        "_score" : 1.2039728,
+        "_source" : {
+          "name" : "Naveen",
+          "usn" : "1rv20mc062",
+          "program" : "MCA"
+        }
+      },
+      {
+        "_index" : "pp_index",
+        "_type" : "student",
+        "_id" : "3",
+        "_score" : 0.6931472,
+        "_source" : {
+          "name" : "Adithya",
+          "usn" : "1rv20mc051",
+          "program" : "MCA"
+        }
+      },
+      {
+        "_index" : "pp_index",
+        "_type" : "student",
+        "_id" : "11",
+        "_score" : 0.6931472,
+        "_source" : {
+          "name" : "Krishnamoorthi",
+          "usn" : "1rv20mc059",
+          "program" : "MCA"
+        }
+      },
+      {
+        "_index" : "pp_index",
+        "_type" : "student",
+        "_id" : "1",
+        "_score" : 0.5389965,
+        "_source" : {
+          "name" : "Mithun",
+          "usn" : "1rv20mc049",
+          "program" : "MCA"
+        }
+      },
+      {
+        "_index" : "pp_index",
+        "_type" : "student",
+        "_id" : "7",
+        "_score" : 0.5389965,
+        "_source" : {
+          "name" : "vishwa",
+          "usn" : "1rv20mc055",
+          "program" : "MCA"
+        }
+      },
+      {
+        "_index" : "pp_index",
+        "_type" : "student",
+        "_id" : "13",
+        "_score" : 0.5389965,
+        "_source" : {
+          "name" : "Brijesh",
+          "usn" : "1rv20mc061",
+          "program" : "MCA"
+        }
+      },
+      {
+        "_index" : "pp_index",
+        "_type" : "student",
+        "_id" : "2",
+        "_score" : 0.2876821,
+        "_source" : {
+          "name" : "Jeevan",
+          "usn" : "1rv20mc050",
+          "program" : "MCA"
+        }
+      },
+      {
+        "_index" : "pp_index",
+        "_type" : "student",
+        "_id" : "4",
+        "_score" : 0.2876821,
+        "_source" : {
+          "name" : "Mahadev",
+          "usn" : "1rv20mc052",
+          "program" : "MCA"
+        }
+      },
+      {
+        "_index" : "pp_index",
+        "_type" : "student",
+        "_id" : "6",
+        "_score" : 0.2876821,
+        "_source" : {
+          "name" : "Shivaputra",
+          "usn" : "1rv20mc054",
+          "program" : "MCA"
+        }
+      },
+      {
+        "_index" : "pp_index",
+        "_type" : "student",
+        "_id" : "15",
+        "_score" : 0.2876821,
+        "_source" : {
+          "name" : "Prem",
+          "usn" : "1rv20mc063",
+          "program" : "MCA"
+        }
+      }
+    ]
+  }
+}
